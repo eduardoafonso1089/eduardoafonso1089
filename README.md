@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate Software Developer currently working at Nova Smar. I'm also pursuing a Master's degree in Machine Learning. I have a strong background in various technologies and programming languages.
+
+## About Me
+
+- 🔭 I’m currently working on developing innovative solutions at **Nova Smar**
+- 🌱 I’m currently learning advanced Machine Learning techniques
+- 👯 I’m looking to collaborate on open-source projects related to Machine Learning and Embedded Systems
+- 🤔 I’m looking for help with complex data analysis and AI model optimization
+- 💬 Ask me about C/C++, Python, Docker, Linux, Embedded Systems, OPC UA, Javascript, HTML, and CSS
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardo-afonso-651b81135/) or email: eduardoafonso1089@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love integrating technology with music to create new and exciting experiences
+
+## GitHub Stats
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoafonso1089&show_icons=true&theme=radical)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoafonso1089&layout=compact&theme=radical)
+
+## Skills
+
+- **Programming Languages**: C/C++, Python, Javascript, HTML, CSS
+- **Technologies**: Docker, Linux, Embedded Systems, OPC UA
+- **Machine Learning**: Deep Learning, Neural Networks, Data Analysis, Complex Network
+
+## Projects
+
+Check out some of my highlighted projects:
+
+- **[Project 1]([https://github.com/eduardoafonso1089/project1](https://github.com/eduardoafonso1089/python_projects))**: Welcome to my python_projects repository! This repository showcases various projects and exercises completed during different Data Science courses. Each project is organized in its own directory by topic and includes Jupyter Notebooks with all the necessary code and explanations..
+- **[Project 2](https://github.com/eduardoafonso1089/project2)**: Brief description of project 2.
+- **[Project 3](https://github.com/eduardoafonso1089/project3)**: Brief description of project 3.
+
+---
+
+Thank you for visiting my GitHub profile!
