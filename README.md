@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there 👋 Welcome to my profile 
 
 <!--
 **eduardoafonso1089/eduardoafonso1089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love integrating technology with music to create new and exciting experiences
 - 
-## 🚀💻 Tecnologias e Ferramentas
+## 🚀💻 Technologies e Tools
 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
@@ -61,7 +61,6 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 
 
-
 ## Skills
 
 - **Programming Languages**: C/C++, Python, Javascript, HTML, CSS
@@ -72,7 +71,7 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 
 Check out some of my highlighted projects:
 
-- **[Project 1]([https://github.com/eduardoafonso1089/project1](https://github.com/eduardoafonso1089/python_projects))**: Welcome to my python_projects repository! This repository showcases various projects and exercises completed during different Data Science courses. Each project is organized in its own directory by topic and includes Jupyter Notebooks with all the necessary code and explanations..
+- **[Project 1]([https://github.com/eduardoafonso1089/project1](https://github.com/eduardoafonso1089/python_projects))**: Welcome to my python_projects repository! This repository showcases various projects and exercises completed during different Data Science courses. Each project is organized in its own directory by topic and includes Jupyter Notebooks with all the necessary code and explanations.
 <!--- **[Project 2](https://github.com/eduardoafonso1089/project2)**: Brief description of project 2.
 - **[Project 3](https://github.com/eduardoafonso1089/project3)**: Brief description of project 3. -->
 
@@ -84,13 +83,12 @@ Check out some of my highlighted projects:
 
 ## Website
 
-You can find me on: 
+You can access my **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/)
 <!-- a href='https://www.linkedin.com/in/eduardo-afonso-651b81135/' target="_blank" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> eduardoafonso1089@gmail.com -->
-- **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/)
 
 ## Views
 
