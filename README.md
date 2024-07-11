@@ -52,4 +52,17 @@ Check out some of my highlighted projects:
 
 ---
 
+## Contact
+
+You can find me on:
+
+- **LinkedIn**: [Eduardo Afonso]([https://www.linkedin.com/in/eduardoafonso1089/](https://www.linkedin.com/in/eduardo-afonso-651b81135/))
+- **GitHub**: [eduardoafonso1089](https://github.com/eduardoafonso1089)
+- **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/) (replace with your actual website)
+
+## Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=eduardoafonso1089&color=blue)
+
+
 Thank you for visiting my GitHub profile!
