@@ -30,10 +30,6 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 - 
 ## 🚀💻 Tecnologias e Ferramentas
 
-<!-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dot-net)
-![oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,21 +41,23 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) -->
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-<!-- ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify) -->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman)
 ![visual-studio-code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code)
 ![raspberry](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-<!-- ![visual-studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+ ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify)
+ ![visual-studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visual-studio)
+ ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dot-net)
+![oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 
 
 
@@ -91,7 +89,7 @@ You can find me on:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> mailto:eduardoafonso1089@gmail.com /> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> eduardoafonso1089@gmail.com
 - **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/)
 
 <br>
