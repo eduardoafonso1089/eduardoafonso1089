@@ -52,8 +52,12 @@ Check out some of my highlighted projects:
 
 You can find me on: 
 <br>
-<a href='https://www.linkedin.com/in/eduardo-afonso-651b81135/' />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+<a href='https://www.linkedin.com/in/eduardo-afonso-651b81135/' target="_blank" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+
+<a href='https://www.linkedin.com/in/eduardo-afonso-651b81135/' target="_blank" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 
 [![Gmail Badge]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:eduardoafonso1089@gmail.com)
