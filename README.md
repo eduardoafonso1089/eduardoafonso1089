@@ -32,17 +32,18 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![c++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![js](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![cmake](https://img.shields.io/badge/build-CMake-orange)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![kubernets](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white))
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -81,18 +82,15 @@ Check out some of my highlighted projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoafonso1089&layout=compact&theme=radical)
 
 
-## Contact
+## Website
 
 You can find me on: 
-<br>
-<a href='https://www.linkedin.com/in/eduardo-afonso-651b81135/' target="_blank" />
+<!-- a href='https://www.linkedin.com/in/eduardo-afonso-651b81135/' target="_blank" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> eduardoafonso1089@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> eduardoafonso1089@gmail.com -->
 - **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/)
-
-<br>
 
 ## Views
 
