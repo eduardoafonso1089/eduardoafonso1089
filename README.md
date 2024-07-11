@@ -31,10 +31,8 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 ## GitHub Stats
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoafonso1089&show_icons=true&theme=radical)
-
-## Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoafonso1089&layout=compact&theme=radical)
+
 
 ## Skills
 
@@ -47,18 +45,16 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 Check out some of my highlighted projects:
 
 - **[Project 1]([https://github.com/eduardoafonso1089/project1](https://github.com/eduardoafonso1089/python_projects))**: Welcome to my python_projects repository! This repository showcases various projects and exercises completed during different Data Science courses. Each project is organized in its own directory by topic and includes Jupyter Notebooks with all the necessary code and explanations..
-- **[Project 2](https://github.com/eduardoafonso1089/project2)**: Brief description of project 2.
-- **[Project 3](https://github.com/eduardoafonso1089/project3)**: Brief description of project 3.
-
----
+<!--- **[Project 2](https://github.com/eduardoafonso1089/project2)**: Brief description of project 2.
+- **[Project 3](https://github.com/eduardoafonso1089/project3)**: Brief description of project 3. -->
 
 ## Contact
 
 You can find me on:
 
-- **LinkedIn**: [Eduardo Afonso]([https://www.linkedin.com/in/eduardoafonso1089/](https://www.linkedin.com/in/eduardo-afonso-651b81135/))
-- **GitHub**: [eduardoafonso1089](https://github.com/eduardoafonso1089)
-- **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/) (replace with your actual website)
+[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-afonso-651b81135/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://www.linkedin.com/in/eduardo-afonso-651b81135/](https://www.linkedin.com/in/eduardo-afonso-651b81135/))
+[![Gmail Badge]([https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiostefani@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:eduardoafonso1089@gmail.com)
+- **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/)
 
 ## Views
 
