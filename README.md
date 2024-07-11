@@ -27,7 +27,7 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardo-afonso-651b81135/) or email: eduardoafonso1089@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love integrating technology with music to create new and exciting experiences
-- 
+  
 ## 🚀💻 Technologies e Tools
 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -63,9 +63,9 @@ I'm a passionate Software Developer currently working at Nova Smar. I'm also pur
 
 ## Skills
 
-- **Programming Languages**: C/C++, Python, Javascript, HTML, CSS
-- **Technologies**: Docker, Linux, Embedded Systems, OPC UA
-- **Machine Learning**: Deep Learning, Neural Networks, Data Analysis, Complex Network
+- **Programming Languages**: C/C++, Python and Javascript.
+- **Technologies**: Docker, Linux, Embedded Systems and OPC UA.
+- **Machine Learning**: Deep Learning, Neural Networks, Data Analysis, Complex Network.
 
 ## Projects
 
