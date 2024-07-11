@@ -51,10 +51,12 @@ Check out some of my highlighted projects:
 ## Contact
 
 You can find me on:
-
-[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-afonso-651b81135/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://www.linkedin.com/in/eduardo-afonso-651b81135/](https://www.linkedin.com/in/eduardo-afonso-651b81135/))
-[![Gmail Badge]([https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiostefani@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:eduardoafonso1089@gmail.com)
+<br>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" link=https://www.linkedin.com/in/eduardo-afonso-651b81135/](https://www.linkedin.com/in/eduardo-afonso-651b81135/ />
+[![Gmail Badge]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:eduardoafonso1089@gmail.com)
 - **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/)
+
+<br>
 
 ## Views
 
