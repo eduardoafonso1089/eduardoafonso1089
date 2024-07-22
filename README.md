@@ -83,7 +83,7 @@ Check out some of my highlighted projects:
 
 ## Website
 
-You can access my **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/eduardoafonso.github.io/)
+You can access my **Website**: [eduardosafonso.com](https://eduardoafonso1089.github.io/devdor/)
 <!-- a href='https://www.linkedin.com/in/eduardo-afonso-651b81135/' target="_blank" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
